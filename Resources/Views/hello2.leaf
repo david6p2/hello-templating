@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <title>Hello, World!</title>
+    </head>
+    <body>
+        #loop(users, "users") {
+            <h1>Hello, #(users)!</h1>
+        }
+    </body>
+    
+</html>
